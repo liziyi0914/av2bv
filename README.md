@@ -10,6 +10,12 @@ Bilibili av号<=>BV号转换器
 ## 安装Install
 `npm install av2bv`
 
+## av=>BV
+`Bilibili.av2BV(170001)`
+
+## BV=>av
+`Bilibili.BV2av('BV17x411w7KC')`
+
 [build-badge]: https://img.shields.io/travis/liziyi0914/av2BV
 [build]: https://travis-ci.org/liziyi0914/av2BV
 
