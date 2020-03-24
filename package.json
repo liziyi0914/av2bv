@@ -1,7 +1,7 @@
 {
-	"name": "av2BV",
+	"name": "av2bv",
 	"version": "1.0.0",
-	"description": "Describe av2BV here",
+	"description": "Bilibili av<=>BV",
 	"main": "lib/index.js",
 	"module": "es/index.js",
 	"files": [
