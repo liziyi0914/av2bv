@@ -1,6 +1,6 @@
 {
 	"name": "av2bv",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Bilibili av<=>BV",
 	"main": "lib/index.js",
 	"module": "es/index.js",
@@ -17,8 +17,7 @@
 		"test:coverage": "nwb test --coverage",
 		"test:watch": "nwb test --server"
 	},
-	"dependencies": {
-	},
+	"dependencies": {},
 	"devDependencies": {
 		"nwb": "0.24.x"
 	},
@@ -26,5 +25,7 @@
 	"homepage": "https://github.com/liziyi0914/av2BV",
 	"license": "MIT",
 	"repository": "https://github.com/liziyi0914/av2BV",
-	"keywords": ["Bilibili"]
+	"keywords": [
+		"Bilibili"
+	]
 }
