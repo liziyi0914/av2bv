@@ -4,13 +4,17 @@
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-Describe av2BV here.
+Bilibili av号<=>BV号转换器
+算法来源:[mcfx@Zhihu](https://www.zhihu.com/answer/1099438784)
 
-[build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
-[build]: https://travis-ci.org/user/repo
+## 安装Install
+'''npm install av2BV'''
 
-[npm-badge]: https://img.shields.io/npm/v/npm-package.png?style=flat-square
-[npm]: https://www.npmjs.org/package/npm-package
+[build-badge]: https://img.shields.io/travis/liziyi0914/av2BV/master.png
+[build]: https://travis-ci.org/liziyi0914/av2BV
 
-[coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
-[coveralls]: https://coveralls.io/github/user/repo
+[npm-badge]: https://img.shields.io/npm/v/av2BV.png
+[npm]: https://www.npmjs.org/package/av2BV
+
+[coveralls-badge]: https://img.shields.io/coveralls/liziyi0914/av2BV/master.png
+[coveralls]: https://coveralls.io/github/liziyi0914/av2BV
